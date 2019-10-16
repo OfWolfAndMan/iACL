@@ -1,5 +1,5 @@
 ### Welcome to iACL
- * `Say Hello` https://twitter.com/labeverydaybot
+ * `Say Hello` https://twitter.com/labeveryday
  * `More Info` www.labeveryday.com
  * `Contact Me` info@labeveryday.com
 ___
