@@ -14,6 +14,7 @@ def main(options, iacl):
     if options == 3:
         print()
 
+
 # Execute script
 if __name__ == "__main__":
     device_acl = open("device_acl.txt", "r").readlines()
